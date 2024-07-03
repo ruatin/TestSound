@@ -1,0 +1,40 @@
+EN,KO
+GENERAL,일반
+LANGUAGE,언어
+GRAPHICS,그래픽
+DISPLAY MODE,디스플레이 모드
+Fullscreen,전체 화면
+Windowed,창 모드
+Borderless Windowed,테두리 없는 창 모드
+ASPECT RATIO,종횡비
+DEVICE,장치
+INPUT DEVICE,입력 장치
+OUTPUT DEVICE,출력 장치
+VOLUME,볼륨
+MASTER VOLUME,마스터 볼륨
+BGM VOLUME,음악 볼륨
+SE VOLUME,효과음 볼륨
+VOICE CHAT,보이스 챗
+VOICE INPUT VOLUME,입력 볼륨
+VOICE OUTPUT VOLUME,출력 볼륨
+MOVEMENT,이동
+FORWARD,전방 이동
+LEFT,좌측 이동
+BACK,후방 이동
+RIGHT,우측 이동
+JUMP,점프
+ABILITY,능력
+ULTIMATE,궁극기
+SKILL 1,스킬 1
+SKILL 2,스킬 2
+Apply,적용
+Restore Defaults,초기화
+Are you sure you want to reset all {0} settings?,정말 모든 {0} 설정을 초기화할까요?
+general,일반
+sound,음성
+controls,조작
+Ok,예
+Cancel,아니오
+You have unsaved changes. Apply them now?,적용하지 않은 변경 사항이 있습니다. 적용할까요?
+Apply,예
+Revert,아니오

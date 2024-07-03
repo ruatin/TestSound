@@ -1,0 +1,10 @@
+index,id,name,name_upper,name_lower,ultimate_id,cell_sprite
+int,int,localization,localization,localization,int,sprite
+0,0,0,0,0,9,Assets/Projects/LGH/UI/inv UI_ver.2/image_inv_dog.png
+1,1,0,0,0,10,Assets/Projects/LGH/UI/inv UI_ver.2/image_inv_elephant.png
+2,2,0,0,0,11,Assets/Projects/LGH/UI/inv UI_ver.2/image_inv_ostrich.png
+3,3,0,0,0,13,Assets/Projects/LGH/UI/inv UI_ver.2/image_inv_parrot.png
+4,4,0,0,0,8,Assets/Projects/LGH/UI/inv UI_ver.2/image_inv_sealion.png
+5,5,0,0,0,12,Assets/Projects/LGH/UI/inv UI_ver.2/image_inv_goldfish.png
+6,6,0,0,0,17,Assets/Projects/LGH/UI/inv UI_ver.2/image_inv_crow.png
+7,7,0,0,0,18,Assets/Projects/LGH/UI/inv UI_ver.2/image_inv_tortoise.png

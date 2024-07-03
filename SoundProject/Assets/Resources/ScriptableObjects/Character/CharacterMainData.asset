@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea5dbf44bbc6d1c48bcb616838fe13c6, type: 3}
+  m_Name: CharacterMainData
+  m_EditorClassIdentifier: 
+  data:
+  - id: 0
+    name: Dog
+    ultimateId: 9
+    skinIdArray: 00000000010000000200000003000000
+    skinNames:
+    - skinId: 0
+      name: Dog
+    - skinId: 1
+      name: Dog 2
+    - skinId: 2
+      name: Dog 3
+    - skinId: 3
+      name: Dog 4
+    sprites:
+    - skinId: 0
+      sprite: {fileID: 21300000, guid: 11720d193b73d184f8f5fddd4619f02e, type: 3}
+  - id: 1
+    name: Elephant
+    ultimateId: 10
+    skinIdArray: 00000000010000000200000003000000
+    skinNames:
+    - skinId: 0
+      name: Elephant
+    - skinId: 1
+      name: Elephant 2
+    - skinId: 2
+      name: Elephant 3
+    - skinId: 3
+      name: Elephant 4
+    sprites:
+    - skinId: 0
+      sprite: {fileID: 21300000, guid: 2413d26012fe06542a928b852b068444, type: 3}
+  - id: 2
+    name: Ostrich
+    ultimateId: 11
+    skinIdArray: 00000000010000000200000003000000
+    skinNames:
+    - skinId: 0
+      name: Ostrich
+    - skinId: 1
+      name: Ostrich 2
+    - skinId: 2
+      name: Ostrich 3
+    - skinId: 3
+      name: Ostrich 4
+    sprites:
+    - skinId: 0
+      sprite: {fileID: 21300000, guid: b0981b136d62e234b961c90680a4d793, type: 3}
+  - id: 3
+    name: Parrot
+    ultimateId: 13
+    skinIdArray: 00000000010000000200000003000000
+    skinNames:
+    - skinId: 0
+      name: Parrot
+    - skinId: 1
+      name: Parrot 2
+    - skinId: 2
+      name: Parrot 3
+    - skinId: 3
+      name: Parrot 4
+    sprites:
+    - skinId: 0
+      sprite: {fileID: 21300000, guid: 606a0dc372d3bd6438ba45886665ef12, type: 3}
+  - id: 4
+    name: Sea lion
+    ultimateId: 8
+    skinIdArray: 00000000010000000200000003000000
+    skinNames:
+    - skinId: 0
+      name: Sea lion
+    - skinId: 1
+      name: Sea lion 2
+    - skinId: 2
+      name: Sea lion 3
+    - skinId: 3
+      name: Sea lion 4
+    sprites:
+    - skinId: 0
+      sprite: {fileID: 21300000, guid: b226c1d21729f9341af01b9b9582ba2f, type: 3}
+  - id: 5
+    name: Goldfish
+    ultimateId: 12
+    skinIdArray: 00000000010000000200000003000000
+    skinNames:
+    - skinId: 0
+      name: Goldfish
+    - skinId: 1
+      name: Goldfish 2
+    - skinId: 2
+      name: Goldfish 3
+    - skinId: 3
+      name: Goldfish 4
+    sprites:
+    - skinId: 0
+      sprite: {fileID: 21300000, guid: 713a98c456dc9504bb82f419ac8c3d3b, type: 3}
+  - id: 6
+    name: Crow
+    ultimateId: 17
+    skinIdArray: 00000000010000000200000003000000
+    skinNames:
+    - skinId: 0
+      name: Crow
+    - skinId: 1
+      name: Crow 2
+    - skinId: 2
+      name: Crow 3
+    - skinId: 3
+      name: Crow 4
+    sprites:
+    - skinId: 0
+      sprite: {fileID: 21300000, guid: 23d8c2683e1ebc242b5bbfc9d258aae5, type: 3}
+  - id: 7
+    name: Tortoise
+    ultimateId: 18
+    skinIdArray: 00000000010000000200000003000000
+    skinNames:
+    - skinId: 0
+      name: Tortoise
+    - skinId: 1
+      name: Tortoise 2
+    - skinId: 2
+      name: Tortoise 3
+    - skinId: 3
+      name: Tortoise 4
+    sprites:
+    - skinId: 0
+      sprite: {fileID: 21300000, guid: a98a4ad69ce21404aa453862370b1327, type: 3}

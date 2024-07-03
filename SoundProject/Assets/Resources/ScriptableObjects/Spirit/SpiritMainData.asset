@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2d376e05ea745242a63f411aac36c3c, type: 3}
+  m_Name: SpiritMainData
+  m_EditorClassIdentifier: 
+  data:
+  - id: 0
+    name: Magnetic spirit
+    skillId: 0
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Magnetic spirit
+  - id: 1
+    name: Boom spirit
+    skillId: 1
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Boom spirit
+  - id: 2
+    name: Jump spirit
+    skillId: 2
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Jump spirit
+  - id: 3
+    name: Dash spirit
+    skillId: 3
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Dash spirit
+  - id: 4
+    name: Blind spirit
+    skillId: 4
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Blind spirit
+  - id: 5
+    name: Stun spirit
+    skillId: 5
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Stun spirit
+  - id: 6
+    name: Rock spirit
+    skillId: 6
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Rock spirit
+  - id: 7
+    name: Gel spirit
+    skillId: 7
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Gel spirit
+  - id: 14
+    name: Boost spirit
+    skillId: 14
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Boost spirit
+  - id: 15
+    name: Hide spirit
+    skillId: 15
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Hide spirit
+  - id: 16
+    name: Dwarf spirit
+    skillId: 16
+    skinIdArray: 00000000
+    skinNames:
+    - skinId: 0
+      name: Dwarf spirit

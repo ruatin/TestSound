@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a4e80e592e1dba4d994d9d318a0505e, type: 3}
+  m_Name: CharacterInventoryData
+  m_EditorClassIdentifier: 
+  data:
+  - id: 0
+    mainTextures: []
+    cellSprite: {fileID: 21300000, guid: 8d5b0c658c37ab64c915a2499756624a, type: 3}
+    costumeSprites: []
+  - id: 1
+    mainTextures: []
+    cellSprite: {fileID: 21300000, guid: 270d4558b09066746a7781726118bd74, type: 3}
+    costumeSprites: []
+  - id: 2
+    mainTextures: []
+    cellSprite: {fileID: 21300000, guid: 8e468ae8cdfffde42bad4f2ba4044bf0, type: 3}
+    costumeSprites: []
+  - id: 3
+    mainTextures: []
+    cellSprite: {fileID: 21300000, guid: d880ceea6c4cb9d44b22572f0653c53b, type: 3}
+    costumeSprites: []
+  - id: 4
+    mainTextures: []
+    cellSprite: {fileID: 21300000, guid: 676226c6cef5c764ba7206847492d608, type: 3}
+    costumeSprites: []
+  - id: 5
+    mainTextures: []
+    cellSprite: {fileID: 21300000, guid: 45afc68dae4ea9c4d9ce84a00b0adbc4, type: 3}
+    costumeSprites: []
+  - id: 6
+    mainTextures: []
+    cellSprite: {fileID: 21300000, guid: 796886a43b5988344a1d3aac960a57dd, type: 3}
+    costumeSprites: []
+  - id: 7
+    mainTextures: []
+    cellSprite: {fileID: 21300000, guid: a4e06a9a77fa0534995a499454b007a3, type: 3}
+    costumeSprites: []

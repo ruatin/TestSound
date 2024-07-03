@@ -1,0 +1,3 @@
+skin_index,skin_id,skin_name,skin_name_upper,skin_name_lower,main_sprite,voice_sprite,game_status_sprite,result_sprite,costume_sprite,popup_sprite
+int,int,localization,localization,localization,sprite,sprite,sprite,sprite,sprite,sprite
+0,0,0,0,0,Assets/Projects/LGH/UI/ingame UI/id/Id_tortoise.png,Assets/Projects/LGH/UI/ingame UI/voice chat/Voice chat_id_tortoise.png,Assets/Projects/LGH/UI/ingame UI/crew/icon_id_tortoise.png,Assets/Projects/LGH/UI/ingame UI/game start-end/image_id_tortoise.png,NULL,Assets/Projects/LGH/UI/ingame UI/game start-end(singlemode)/image_popup_id_tortoise.png

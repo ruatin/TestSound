@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 861b63d5ea44bf240a77c3d1c23b78b6, type: 3}
+  m_Name: SkillGameStatusData
+  m_EditorClassIdentifier: 
+  data:
+  - id: 0
+    activeSprite: {fileID: 21300000, guid: 28e53eb234a4edb4e85f9bf086f3efc3, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: d14f72a5c1f1553479f697b547be4ac4, type: 3}
+  - id: 1
+    activeSprite: {fileID: 21300000, guid: 1cf2b2dce9bd4bc4fbb42cda510f3fdd, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: e1e8a7a8a6b8b014798d5766ad538885, type: 3}
+  - id: 2
+    activeSprite: {fileID: 21300000, guid: 76bfb96b39d777b4ba9a1d6ef1aad382, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: 18d606d83f751994d93345385aa9b9f7, type: 3}
+  - id: 3
+    activeSprite: {fileID: 21300000, guid: 9497519750bbf0546af6a396131124c2, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: 1eeddfa5088513f4e8e21154069c6c63, type: 3}
+  - id: 4
+    activeSprite: {fileID: 21300000, guid: dda9383b8db8a644d9294a5b8848433b, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: 866c17e5cee1b46459551689d9fa4a38, type: 3}
+  - id: 5
+    activeSprite: {fileID: 21300000, guid: 80ed2229dc688a04aab9af77c2559d69, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: d9c4cb68fc51d274faa1a706f3c552c4, type: 3}
+  - id: 6
+    activeSprite: {fileID: 21300000, guid: ec47297754cde0243bbd63617aea4485, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: c53b83cc93263ae49a48702f783cafd8, type: 3}
+  - id: 7
+    activeSprite: {fileID: 21300000, guid: 70d23894595cc82449183b9ba454ab21, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: 36d3000d710dc1a48b77e832c45b8115, type: 3}
+  - id: 14
+    activeSprite: {fileID: 21300000, guid: fefd46c99ee7c2643822ae0041c99252, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: e3d7310102005034a80701134e1a101c, type: 3}
+  - id: 15
+    activeSprite: {fileID: 21300000, guid: fb5b1e531424d9540afb9549f6a2c6d7, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: 88bb63ab7bc627844a0ea83c979beb7f, type: 3}
+  - id: 16
+    activeSprite: {fileID: 21300000, guid: ff5104f0c5c3703428c5f1a5ab2feec9, type: 3}
+    inactiveSprite: {fileID: 21300000, guid: 50cfae486d3e66c4fa7e889201a29e66, type: 3}

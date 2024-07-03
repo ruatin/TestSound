@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c3bb4fedf1b4de45bd1f080db159da3, type: 3}
+  m_Name: CharacterData
+  m_EditorClassIdentifier: 
+  idArray: 0000000001000000020000000300000004000000050000000600000007000000
+  mainObject: {fileID: 11400000, guid: b5e18939f0ed50944a06d3589140d071, type: 2}
+  voiceObject: {fileID: 11400000, guid: e5b76758af5cb0b4baefa81b5577456f, type: 2}
+  gameStatusObject: {fileID: 11400000, guid: 2bf61b208fc0a7345b6b0cc293616c71, type: 2}
+  resultObject: {fileID: 11400000, guid: 9330b524592ff844689a22ff5a9f7f76, type: 2}
+  inventoryObject: {fileID: 11400000, guid: e3ceb1f50113f0b4ba2dc5ea131e00e1, type: 2}
+  popupObject: {fileID: 11400000, guid: d58c97bd60d953f42917b538dc906e07, type: 2}
