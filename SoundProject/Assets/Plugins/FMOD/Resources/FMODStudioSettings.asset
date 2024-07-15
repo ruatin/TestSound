@@ -488,13 +488,11 @@ MonoBehaviour:
   MasterBanks:
   - Master
   Banks:
-  - Dialogue_CN
-  - Dialogue_EN
-  - Dialogue_JP
-  - Music
-  - SFX
-  - Vehicles
-  - VO
+  - SFXB
+  - SFXC
+  - SFXE
+  - SFXU
+  - SFXW
   BanksToLoad: []
   LiveUpdatePort: 9264
   EnableMemoryTracking: 0
