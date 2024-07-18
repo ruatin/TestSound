@@ -488,6 +488,7 @@ MonoBehaviour:
   MasterBanks:
   - Master
   Banks:
+  - MUSIC
   - SFXB
   - SFXC
   - SFXE

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="SandboxScene" id="{c6f5d66b-cc3d-4c22-8b4d-e1ad5f201e6b}">
+		<property name="name">
+			<value>wind mill</value>
+		</property>
+		<relationship name="folder">
+			<destination>{90f1921b-3a6d-4222-bafe-83641a15bccf}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{3b926317-ce21-49ad-94bb-f84a0051ea6b}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{238381d1-fc8f-4828-b12a-16398a9b91f4}</destination>
+		</relationship>
+	</object>
+	<object class="MarkerTrack" id="{3b926317-ce21-49ad-94bb-f84a0051ea6b}" />
+	<object class="Timeline" id="{238381d1-fc8f-4828-b12a-16398a9b91f4}" />
+</objects>
