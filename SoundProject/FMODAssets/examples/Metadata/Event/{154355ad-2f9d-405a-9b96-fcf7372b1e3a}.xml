@@ -54,7 +54,7 @@
 			<destination>{12115791-6045-4426-a452-6586ceac69a1}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{af9d027a-3a1f-49a8-a9ef-4cbe20673632}</destination>
+			<destination>{ccb72b33-7e08-46a6-bb52-42c415962a34}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{c5f4641b-4239-4689-9eb9-49fe22045f74}" />
@@ -82,6 +82,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{7ed048ac-f7a3-4e53-9b6b-222787339099}">
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{0ba7a713-74e8-4792-a978-2c1a919fcab9}</destination>
 		</relationship>
@@ -144,6 +147,7 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{0ba7a713-74e8-4792-a978-2c1a919fcab9}">
 		<relationship name="effects">
+			<destination>{0d3275b3-9244-4d3b-b3b6-cde429b167eb}</destination>
 			<destination>{02b5a607-e760-4cdc-a21c-4c1015586db4}</destination>
 			<destination>{b841fa44-f769-4e06-93c5-7486f9bbfc43}</destination>
 		</relationship>
@@ -162,8 +166,20 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3b66eac2-e97c-410e-9719-e21da3dac5a3}" />
+	<object class="ChorusEffect" id="{0d3275b3-9244-4d3b-b3b6-cde429b167eb}">
+		<property name="rate">
+			<value>0.0899999961</value>
+		</property>
+		<property name="depth">
+			<value>42</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{02b5a607-e760-4cdc-a21c-4c1015586db4}" />
-	<object class="SpatialiserEffect" id="{b841fa44-f769-4e06-93c5-7486f9bbfc43}" />
+	<object class="SpatialiserEffect" id="{b841fa44-f769-4e06-93c5-7486f9bbfc43}">
+		<property name="distanceRolloffType">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{89f375cb-10b4-4372-8920-adf52308ce2d}" />
 	<object class="MixerBusFader" id="{447735d7-19d5-4b2b-8300-51d478c21cba}" />
 </objects>
