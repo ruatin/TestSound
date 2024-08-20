@@ -5237,11 +5237,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 328698945
-      Data2: 1141071351
-      Data3: 487759538
-      Data4: 328207257
-    Path: event:/W/W_BGM_1
+      Data1: 1222825368
+      Data2: 1091325455
+      Data3: 1109179043
+      Data4: 1162957127
+    Path: event:/MUSICBOX/AnimalParty
   Event: 
   PlayEvent: 1
   StopEvent: 2
@@ -5249,7 +5249,9 @@ MonoBehaviour:
   TriggerOnce: 0
   Preload: 0
   AllowNonRigidbodyDoppler: 0
-  Params: []
+  Params:
+  - Name: GNT
+    Value: 0
   OverrideAttenuation: 0
   OverrideMinDistance: 1
   OverrideMaxDistance: 20

@@ -492,6 +492,7 @@ MonoBehaviour:
   - SFXB
   - SFXC
   - SFXE
+  - SFXS
   - SFXU
   - SFXW
   BanksToLoad: []
