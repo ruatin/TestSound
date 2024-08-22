@@ -53,7 +53,7 @@
 			<destination>{447fd0d3-8747-457e-ba15-5e0432db9231}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{af9d027a-3a1f-49a8-a9ef-4cbe20673632}</destination>
+			<destination>{ccb72b33-7e08-46a6-bb52-42c415962a34}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{1dd33a21-f3a5-4792-9881-f4e06d0c2529}" />
@@ -92,7 +92,6 @@
 		<property name="length">
 			<value>0.375</value>
 		</property>
-		<property name="name" />
 		<relationship name="fadeInCurve">
 			<destination>{a03d33d4-7b69-42be-91aa-f0c245ee8018}</destination>
 		</relationship>
