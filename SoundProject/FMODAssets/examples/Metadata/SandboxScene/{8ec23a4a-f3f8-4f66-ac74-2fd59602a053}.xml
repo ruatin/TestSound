@@ -26,13 +26,13 @@
 	<object class="Timeline" id="{e096d961-e0d1-45c0-b965-cc309a889a93}" />
 	<object class="SandboxEmitter" id="{ab45bc24-9c18-41bf-841b-e63fd481f9c2}">
 		<property name="positionX">
-			<value>0.324999899</value>
+			<value>-0.225000113</value>
 		</property>
 		<property name="positionZ">
-			<value>7.60000038</value>
+			<value>7.70000029</value>
 		</property>
 		<property name="rotationY">
-			<value>29.6129646</value>
+			<value>4.15469646</value>
 		</property>
 		<relationship name="event">
 			<destination>{d17065dd-2b40-461d-93d3-5556162fda7f}</destination>
